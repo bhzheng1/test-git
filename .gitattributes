@@ -1,0 +1,2 @@
+/always-theirs/auto-gen/* -diff merge=theirs
+/always-theirs/auto-gen/**/*  -diff merge=theirs
